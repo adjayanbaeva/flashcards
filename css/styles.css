@@ -1,5 +1,63 @@
 body {
-  background-color: red;
+  background-image: url("../img/bodyImg.jpeg") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+.jumbotron p {
+  text-align: center;
+  color: gold;
+}
+
+.well {
+  background-image: url("../img/jumbotron.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: gold
+
+}
+
+#javascriptDefinition {
+  color: beige;
+}
+
+#operatorsDefinition {
+  color: beige;
+}
+
+#variablesDefinition {
+  color: beige;
+}
+
+#namingDefinition {
+  color: beige;
+}
+
+#functionsDefinition {
+  color: beige;
+}
+
+#jqueryDefinition {
+  color: beige;
+}
+
+
+.jumbotron {
+  background-image: url("../img/jumbotron.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron h1{
+  text-align: center;
+  color: gold;
+}
+
+
+#naming-clickable {
+  height: 110px;
 }
 
 #javascriptDefinition {
